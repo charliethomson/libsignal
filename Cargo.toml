@@ -1,6 +1,6 @@
 [package]
 name = "libsignal"
-version = "0.1.1-alpha.0"
+version = "1.0.0"
 edition = "2024"
 
 authors = ["Charlie Thomson <charlie@thmsn.dev>"]
